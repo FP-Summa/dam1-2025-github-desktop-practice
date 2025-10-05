@@ -9,11 +9,11 @@ Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop den
 3.	Crea una rama nueva en GitHub Desktop:
     *	Nombre: feature/{tu-usuario} (ej: feature/ana-garcia)
 4.	Crea tu carpeta y archivo:
-	*	Dentro de /alumnos/, crea la carpeta /< tu-usuario>/.
+	*	Dentro de /alumnos/, crea la carpeta /{tu-usuario}/.
 	*	Copia plantillas/ficha.md a /alumnos/{tu-usuario}/README.md.
 5.	Rellena la ficha en /alumnos/{tu-usuario}/README.md.
 	*	Haz mínimo 2 commits pequeños (ej.: uno por sección).
-	*	Mensajes de commit claros (imperativo breve): Añade sección conceptos, Completa captura flujo.
+	*	Escribe mensajes de commit claros.
 6.	Push de tu rama al remoto (GitHub Desktop → Publish branch / Push origin).
 7.	Abre un Pull Request hacia main del repositorio original (no tu fork).
 	*	Se abrirá con la plantilla de PR: complétala.
@@ -29,9 +29,3 @@ Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop den
 *	URL de tu Pull Request.
 *	Captura de una de tus revisiones (o link al comentario).
 *	Tu carpeta: /alumnos/{tu-usuario}/README.md completa.
-
-## Tiempo orientativo
-*	Fork/clone/branch: 10–15’
-*	Completar ficha + commits: 25–35’
-*	PR + revisión a 2 compañeros: 20–30’
-*	Ajustes finales: 10’

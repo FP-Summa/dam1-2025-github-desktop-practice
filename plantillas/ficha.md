@@ -8,6 +8,7 @@
 - **Diferencia entre fork y branch:** 
 - **Cuándo abrir un PR:** 
 
+
 ## Checklist de hoy (marca con X)
 - [ ] Hice **fork** del repo
 - [ ] Cloné **mi fork** en GitHub Desktop
