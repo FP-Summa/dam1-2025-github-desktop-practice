@@ -21,9 +21,9 @@ Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop den
 	*	Asigna 2 revisores o menciona a dos compañeros con @.
 8.	Revisa 2 PRs de compañeros:
 	*	En cada PR deja al menos 2 comentarios y 1 sugerencia de cambio (usa “Add a suggestion” en una línea).
-	*	Termina con Approve si está correcto o Request changes con feedback concreto.
+	*	Termina con `Approve` si está correcto o `Request changes` con feedback concreto.
 9.	Si te piden cambios, hazlos en tu misma rama y vuelve a push.
-10.	Cuando tu PR tenga 2 aprobaciones, marca en el PR que está listo. (El profesorado hará el merge después).
+10.	Cuando tu PR tenga 2 aprobaciones, marca en el PR que está listo. Yo (@ivancorrales) haré el merge después.
 
 ## Entregables
 *	URL de tu Pull Request.
