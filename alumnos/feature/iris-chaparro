@@ -1,0 +1,9 @@
+#ficha técnica- git y github dektop
+**Alumnos/a:** Iris chaparro-***Usuario GitHub.** @irischaparro
+
+##conceptos en tus palabras 
+-**Fork:** un fork es una llamada al sistema que crea un nuevo proceso duplicando uno existente
+-**branch:** Un branch puede referirse a una división o subdivisión de una entidad mayor.
+-**Pull Request:** un pull Request es el núcleo del sistema colaborativo de GitHub
+-**diferencia entre ford y branch:** el fork  te permiten trabajar en una copia del repositorio sin afectar el código original  mientras que el branch te permiten trabajar en nuevas características o correcciones de errores sin afectar la línea principal de desarrollo
+-**Cuando abrir un PR:** cuando Una vez que tus commits están listos
