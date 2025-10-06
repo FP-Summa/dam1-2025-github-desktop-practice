@@ -1,7 +1,7 @@
 # Ficha técnica – Git y GitHub Desktop
 
 ## Mis datoss
-**Alumno/a:** <tu nombre> — **Usuario GitHub:** @<tu-usuario>
+**Alumno/a:** Mikel Nevado — **Usuario GitHub:** @Mokel400
 
 ## Conceptos en tus palabras
 - **Fork:**  Es la acción de copiar un repositorio total o parcialmente, con la posibilidad de sincronizarlo con el original enb cualquier momento.
