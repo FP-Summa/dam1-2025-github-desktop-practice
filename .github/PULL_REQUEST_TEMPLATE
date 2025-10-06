@@ -2,12 +2,7 @@
 Breve resumen de qué aporta este PR (carpeta y ficha del alumno/a).
 
 ## Checklist
-- [ ] Rama creada desde GitHub Desktop con el nombre `feature/{usuario}`
-- [ ] Mínimo 2 commits pequeños con mensajes claros
-- [ ] Carpeta en `/alumnos/{usuario}/` con `README.md`
-- [ ] He completado las preguntas
-
-## ¿Listo para revisión?
-Marcar una:
-- [ ] Borrador
-- [ ] Listo para revisión
+- [ ] He creado una rama desde GitHub Desktop con el nombre `feature/{usuario}`
+- [ ] He hecho al menos  2 commits pequeños con mensajes claros
+- [ ] He creado una carpeta en `/alumnos/{usuario}/` con un fichero `README.md`
+- [ ] He explicado con mis palabras los conceptos que aparecen en mi ficha.

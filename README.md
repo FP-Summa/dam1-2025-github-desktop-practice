@@ -28,6 +28,8 @@ Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop den
 	*	Asigna al menos 1 revisor (ó más) o menciona a 1 compañeros con @.
     ![screenshot](assets/addReviewers.png)
     ![screenshot](assets/addReviewers2.png)
+    *  Asegurate que has completado el checklist para poder crear una PR.
+    
 8.	Revisa 1 PRs de compañeros:
 	*	En cada PR deja al menos 1 comentarios.
 	*	Termina con `Approve` si está correcto o `Request changes` con feedback concreto.
