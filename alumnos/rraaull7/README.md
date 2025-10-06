@@ -1,7 +1,7 @@
 # Ficha técnica – Git y GitHub Desktop
 
 ## Mis datoss
-**Alumno/a:** <Raúl> — **Usuario GitHub:** @<rraaull7>
+**Alumno/a:** <Raúl De Miguel> — **Usuario GitHub:** @<rraaull7>
 
 ## Conceptos en tus palabras
 - **Fork:**  Un fork es una copia de un repositorio que se crea en tu cuenta de GitHub. Te permite hacer cambios libremente sin afectar el proyecto original. Es ideal para colaborar en proyectos de otros.
