@@ -1,6 +1,10 @@
 # Ficha técnica - Git y Github Dekstop
+
 **Alumno/a:** Javier Casillas - **Usuario Github:** @<Jcasillas11>
+
+
 ## Conceptos en tus palabras
+
 - **Fork:** Un fork es una copia de un repositorio de otro usuario al tuyo.
 - **Branch:** Un branch es una rama o linea de trabajo de un proyecto.
 - **Pull Request:** Una Pull Request es una forma de fusionar tus cambios con el original.
