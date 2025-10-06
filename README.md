@@ -36,3 +36,17 @@ Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop den
 	*	Termina con `Approve` si está correcto o `Request changes` con feedback concreto.
 9.	Si te piden cambios, hazlos en tu misma rama y vuelve a push.
 10.	Cuando tu PR tenga 1 aprobación, marca en el PR que está listo. Yo (@ivancorrales) haré el merge después.
+
+
+## Rúbrica de evaluación
+Se aplicarán los criterios indicados en la siguiente tabla:
+
+![screenshot](assets/rubrica.png)
+
+### **Requisitos mínimos para superarla**
+
+- Debe existir una **PR al repositorio original** y al menos **1 revisión realizada a un compañero/a**.
+
+### **Penalizaciones (si aplican)**
+- Entrega fuera de tiempo de clase: −0.5
+- Subir ficheros innecesarios (binarios, .DS_Store, etc.) de forma reiterada: −0.25
