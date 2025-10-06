@@ -1,7 +1,7 @@
 # Ficha técnica – Git y GitHub Desktop
 
 ## Mis datoss
-**Alumno/a:** <Raú> — **Usuario GitHub:** @<rraaull7>
+**Alumno/a:** <Raúl> — **Usuario GitHub:** @<rraaull7>
 
 ## Conceptos en tus palabras
 - **Fork:**  Un fork es una copia de un repositorio que se crea en tu cuenta de GitHub. Te permite hacer cambios libremente sin afectar el proyecto original. Es ideal para colaborar en proyectos de otros.
@@ -21,4 +21,5 @@ Has terminado una funcionalidad o tarea en tu rama.
 Quieres que tus cambios sean revisados y, si están correctos, integrados en el repositorio original.
 
 Has hecho push de tu rama al remoto (GitHub).
-commit2
+
+FIN
