@@ -2,7 +2,10 @@
 
 Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop dentro de este repo, y abrirás un Pull Request para que dos compañeros te revisen.
 
+
 ## Pasos (síguelos en orden)
+
+**NOTA: REMPLAZA {tu-usuario} POR TU NOMBRE Y APELLIDOS**
 
 1.	Haz un fork de este repositorio (botón Fork en GitHub).
 2.	En GitHub Desktop: File → Clone repository y clona tu fork.
