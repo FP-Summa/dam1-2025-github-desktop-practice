@@ -22,6 +22,7 @@ Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop den
 6.	Push de tu rama al remoto (GitHub Desktop → Publish branch / Push origin).
 7.	Abre un Pull Request hacia main del repositorio original (no tu fork).
 	*	Se abrirá con la plantilla de PR: complétala.
+    *   Añade un titulo descriptivo a la Pull Request
     *   Remplaza `feature/{tu-usuario}` por el nombre de tu rama (ej: `feature/ivan-corrales`).
 	*	Añade la etiqueta (Labels) `Tarea` y el hito (Milestone) `Actividad evaluable Github`, tal y como se muestra en la siguiente imagen:
     ![screenshot](assets/createPR.png)
