@@ -1,6 +1,6 @@
 # Ficha técnica – Git y GitHub Desktop
 
-## Mis datoss
+## Mis datos
 **Alumno/a:** Patricia — **Usuario GitHub:** @PatriciaOM23
 
 - **Fork:** Un Fork es una forma de duplicar un repositorio para poder trabajar a la par con el original sin tener que trabar junto a él, ya sea aportando desde "otro" repositorio o simplemente usando el original como base para trabajar en tu proyecto.
