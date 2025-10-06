@@ -6,6 +6,6 @@
 ## Conceptos en tus palabras
 - **Fork:** 
 - **Branch:** 
-- **Pull Request:**
+- **Pull Request:** 
 - **Diferencia entre fork y branch:** 
 - **Cuándo abrir un PR:** 
