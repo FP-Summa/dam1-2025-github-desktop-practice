@@ -24,7 +24,7 @@ Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop den
 	*	Se abrirá con la plantilla de PR: complétala.
     *   Remplaza `feature/{tu-usuario}` por el nombre de tu rama (ej: `feature/ivan-corrales`).
 	*	Añade la etiqueta (Labels) `Tarea` y el hito (Milestone) `Actividad evaluable Github`, tal y como se muestra en la siguiente imagen:
-    ![screenshot](assets/contributePR.png)
+    ![screenshot](assets/createPR.png)
 	*	Asigna al menos 1 revisor (ó más) o menciona a 1 compañeros con @.
     ![screenshot](assets/addReviewers.png)
     ![screenshot](assets/addReviewers2.png)
