@@ -1,6 +1,6 @@
 # Ficha técnica – Git y GitHub Desktop
 
-## Mis datoss
+## Mis datos
 
 **Alumno/a:** Héctor Luna Moreno — **Usuario GitHub:** @lunhect
 
