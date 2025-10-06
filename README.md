@@ -12,8 +12,8 @@ Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop den
 	*	Dentro de /alumnos/, crea la carpeta /{tu-usuario}/.
 	*	Copia plantillas/ficha.md a /alumnos/{tu-usuario}/README.md.
 5.	Rellena la ficha en /alumnos/{tu-usuario}/README.md.
-	*	Haz mínimo 2 commits pequeños (ej.: uno por sección).
-	*	Escribe mensajes de commit claros.
+	*	Haz mínimo 2 commits pequeños (ej.: uno al crear el fichero README.md,  uno por sección completada,...).
+	*	Escribe mensajes de commit claros que se correspondan con lo que has hecho)
 6.	Push de tu rama al remoto (GitHub Desktop → Publish branch / Push origin).
 7.	Abre un Pull Request hacia main del repositorio original (no tu fork).
 	*	Se abrirá con la plantilla de PR: complétala.
