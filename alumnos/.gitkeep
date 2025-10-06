@@ -1,0 +1,9 @@
+# Ficha técnica - Git y GitHub Desktop
+**Alumno/a:** Iván Corrales -- **Usuario GitHub:** @ivancorrales
+
+## Conceptos en tus palabras
+- **Fork:** Un fork es una copia de un repositorio que se crea en tu cuenta de GitHub. Permite trabajar de forma independiente sobre un proyecto sin afectar al original.
+- **Branch:** Un branch es una rama dentro de un repositorio que permite desarrollar nuevas funcionalidades o hacer cambios sin modificar la rama principal (main o master).
+- **Pull Request:** Una Pull Request es una solicitud para que los cambios realizados en una rama (propia o de un fork) se integren en otra rama, normalmente la principal del proyecto original.
+- **Diferencia entre fork y branch:** El fork crea una copia completa del repositorio en tu cuenta, ideal para colaborar en proyectos ajenos. El branch, en cambio, es una división dentro del mismo repositorio, útil para organizar el trabajo en equipo dentro de un mismo proyecto.
+- **Cuándo abrir un PR:** Cuando he terminado una funcionalidad o corrección en una rama y quiero que se revise y se integre en la rama principal del proyecto.
