@@ -12,20 +12,19 @@ Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop den
 	*	Dentro de /alumnos/, crea la carpeta /{tu-usuario}/.
 	*	Copia plantillas/ficha.md a /alumnos/{tu-usuario}/README.md.
 5.	Rellena la ficha en /alumnos/{tu-usuario}/README.md.
-	*	Haz mínimo 2 commits pequeños (ej.: uno por sección).
+    *   Completa los campos en el propio fichero que has creado
+        ![screenshot](assets/fillFicha.png)
+	*	Haz mínimo 2 commits pequeños (ej.: uno al crear el fichero README.md,  uno por sección completada,...).
 	*	Escribe mensajes de commit claros.
 6.	Push de tu rama al remoto (GitHub Desktop → Publish branch / Push origin).
 7.	Abre un Pull Request hacia main del repositorio original (no tu fork).
 	*	Se abrirá con la plantilla de PR: complétala.
-	*	Añade la etiqueta tarea (si tienes permisos) o indícalo en el cuerpo del PR.
-	*	Asigna 2 revisores o menciona a dos compañeros con @.
-8.	Revisa 2 PRs de compañeros:
-	*	En cada PR deja al menos 2 comentarios y 1 sugerencia de cambio (usa “Add a suggestion” en una línea).
+    *   Remplaza `feature/{tu-usuario}` por el nombre de tu rama (ej: `feature/ivan-corrales`).
+	*	Añade la etiqueta (Labels) `Tarea` y el hito (Milestone) `Actividad evaluable Github`, tal y como se muestra en la siguiente imagen:
+    ![screenshot](assets/contributePR.png)
+	*	Asigna 1 revisor o menciona a dos compañeros con @.
+8.	Revisa 1 PRs de compañeros:
+	*	En cada PR deja al menos 1 comentarios.
 	*	Termina con `Approve` si está correcto o `Request changes` con feedback concreto.
 9.	Si te piden cambios, hazlos en tu misma rama y vuelve a push.
-10.	Cuando tu PR tenga 2 aprobaciones, marca en el PR que está listo. Yo (@ivancorrales) haré el merge después.
-
-## Entregables
-*	URL de tu Pull Request.
-*	Captura de una de tus revisiones (o link al comentario).
-*	Tu carpeta: /alumnos/{tu-usuario}/README.md completa.
+10.	Cuando tu PR tenga 1 aprobación, marca en el PR que está listo. Yo (@ivancorrales) haré el merge después.
