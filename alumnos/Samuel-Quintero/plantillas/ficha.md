@@ -1,7 +1,9 @@
 # Ficha técnica - Git y GitHub Desktop
+
 **Alumno/a:** Samuel Quintero - **Usuario GitHub:** @<classHTML15>
 
 ## Conceptos en tus palabras
+
 - **Fork:** Un fork es una copia que haces de un repositorio al tuyo.
 - **Branch:** Es una rama que se crea dentro de un repositorio.
 - **Pull Request:** Fusiona cambios de un código a la rama original.
