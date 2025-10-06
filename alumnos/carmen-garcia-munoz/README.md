@@ -4,7 +4,7 @@
 **Alumno/a:** Carmen García-Muñoz — **Usuario GitHub:** @GarciaMunozCarmen
 
 ## Conceptos en tus palabras
-- **Fork:** Un Fork es una forma de copiar un repositorio y poder seguir conectado con el original.
+- **Fork:** Un Fork es una copia de un repositorio a tu perfil para poder trabajar sin afectar al original.
 - **Branch:** Una Branch es una rama donde haces tus cambios para no hacerlos en la principal.
 - **Pull Request:** Una Pull Request es una pregunta que se hace para poder pasar los cambios que has hecho en tu rama a main.
 - **Diferencia entre fork y branch:** El Fork copia un repositorio entero en tu perfil mientras que una Branch no copia nada, es una rama nueva.
