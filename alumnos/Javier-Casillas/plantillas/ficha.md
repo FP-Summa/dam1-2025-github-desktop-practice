@@ -10,3 +10,4 @@
 - **Pull Request:** Una Pull Request es una forma de fusionar tus cambios con el original.
 - **Diferencia entre fork y branch:** El fork crea una copia de tu repositorio mientras que el branch crea una linea o rama dentro de tu repositorio
 - **Cuándo abrir un PR:** Cuando he hecho cambios en una rama y quiero que se unen al proyecto original  
+# Listo
