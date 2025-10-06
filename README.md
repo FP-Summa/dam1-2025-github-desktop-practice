@@ -1,4 +1,4 @@
-# Reto evaluable (GitHub Desktop, sin consola)
+# Reto evaluable
 
 Qué vas a hacer: crearás tu ficha técnica de conceptos Git/GitHub Desktop dentro de este repo, y abrirás un Pull Request para que dos compañeros te revisen.
 
