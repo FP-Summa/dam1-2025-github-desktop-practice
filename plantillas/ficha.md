@@ -8,7 +8,7 @@
 
 - **Branch:** llamada "rama" en español, es un trabajo paralelo a un proyecto principal, comunmente llamado "main", de esta forma se hace trabajos en el codigo sin la neceidad de alterar de manera directa el codigo principal.
 
-- **Pull Request:** una accion especialmnete ne github, a través de la cual se solicita la revision y fusion de las modificanciones hechas en tu branch o rama hacia la rama principal o main, tambien se usa para actualizar las modificaciones de github a git desktop.
+- **Pull Request:** una accion especialmente ne github, a través de la cual se solicita la revision y fusion de las modificanciones hechas en tu branch o rama hacia la rama principal o main, tambien se usa para actualizar las modificaciones de github a git desktop.
 
 - **Diferencia entre fork y branch:** el branch es una linea dentro del mismo repositorio y el fork es una copia completa de otro repositorio.
 
