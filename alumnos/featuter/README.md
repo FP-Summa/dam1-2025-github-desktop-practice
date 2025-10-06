@@ -10,3 +10,4 @@
 - **Diferencia entre fork y branch:** branch:  Una línea de desarrollo dentro del mismo repositorio.
 fork: Una copia completa de un repositorio en tu propia cuenta de GitHub.
 - **Cuándo abrir un PR:** Debes abrir una pull request (PR) cuando quieres proponer cambios que hiciste en una rama para que sean revisados y, si se aprueban, fusionados con otra rama (normalmente la rama principal, como main o master).
+hacer una carpeta
